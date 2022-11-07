@@ -1,11 +1,8 @@
 [package]
-authors = ["Dan Greco <dan.greco@live.com>"]
-edition = "2018"
-name = "clack_core"
+name = "clack_tasks"
 version = "0.1.0"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-clack_tasks = {path = "../tasks"}
-panic-halt = "0.2.0"

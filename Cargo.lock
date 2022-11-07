@@ -6,8 +6,13 @@ version = 3
 name = "clack_core"
 version = "0.1.0"
 dependencies = [
+ "clack_tasks",
  "panic-halt",
 ]
+
+[[package]]
+name = "clack_tasks"
+version = "0.1.0"
 
 [[package]]
 name = "panic-halt"
