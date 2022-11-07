@@ -1,0 +1,10 @@
+[package]
+authors = ["Dan Greco <dan.greco@live.com>"]
+edition = "2018"
+name = "clack_core"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+panic-halt = "0.2.0"
